@@ -15,5 +15,27 @@
     <ResumeAdditionalSkills />
     <v-divider></v-divider>
     <ResumeEducation />
+    <v-layout-item model-value position="top" class="text-end" size="88">
+      <div class="ma-4">
+        <v-btn 
+        icon="mdi-download" 
+        size="large" 
+        color="secondary" 
+        elevation="4" 
+        href="/content/CharlesWeiblenResume.pdf" 
+        target="_blank"
+        download />
+      </div>
+    </v-layout-item>
   </v-container>
 </template>
+
+<script setup>
+function download() {
+  const link = document.createElement('a')
+  link.href = '/content/CharlesWeiblenResume.pdf'
+  link.download = 'CharlesWeiblenResume.pdf'
+  link.target = '_blank'
+  link.click()
+}
+</script>

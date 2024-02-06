@@ -1,10 +1,10 @@
 <template>
   <v-app>
-    <v-app-bar color="primary">
+    <v-app-bar color="primary" density="compact">
       <v-app-bar-title>weiblen.com</v-app-bar-title>
-      <v-btn to="/" nuxt> Home </v-btn>
-      <v-btn to="/links" nuxt> Links </v-btn>
-      <v-btn to="/resume" nuxt> Resume </v-btn>
+      <v-btn to="/" nuxt icon="mdi-home"></v-btn>
+      <v-btn to="/links" nuxt icon="mdi-link"></v-btn>
+      <v-btn to="/resume" nuxt icon="mdi-file-account"></v-btn>
     </v-app-bar>
     <!-- <v-navigation-drawer>
       <v-list>

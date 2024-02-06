@@ -1,13 +1,13 @@
 <template>
   <v-container fluid>
-    <v-row align="center">
-      <v-col cols="1">
+    <v-row align="center" slim>
+      <v-col cols="2">
         <v-avatar size="64px">
           <v-img src="/img/charles.weiblen.sm.bw.jpg" alt="Charles Weiblen Photo" />
         </v-avatar>
       </v-col>
-      <v-col md="auto">
-        <p class="text-h4 font-weight-bold">
+      <v-col>
+        <p class="text-h5 font-weight-bold">
          Welcome to weiblen.com!
         </p>
       </v-col>
