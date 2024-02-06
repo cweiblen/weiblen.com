@@ -14,7 +14,7 @@
     </v-row>
     <v-row>
       <v-col>
-        <p>Please check out my <v-link to="/links" nuxt>links</v-link> and <v-link to="/resume" nuxt>résumé</v-link></p>
+        <p>Please check out my <a href="/links" >links</a> and <a href="/resume">résumé</a></p>
       </v-col>
     </v-row>
   </v-container>
