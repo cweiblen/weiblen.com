@@ -12,7 +12,7 @@
       </v-list>
     </v-navigation-drawer> -->
 
-    <v-main class="d-flex align-center justify-center" style="min-height: 300px;">
+    <v-main class="d-flex align-top justify-center" style="min-height: 300px;">
       <slot />
     </v-main>
     <v-footer app>©2024 Charles Weiblen</v-footer>
