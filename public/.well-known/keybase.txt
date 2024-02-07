@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/cweiblen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://weiblen.com
+  * I am cweiblen (https://keybase.io/cweiblen) on keybase.
+  * I have a public key ASCXaZQoFoHlmETeQ8nOR_qbgqV2hBV_Q89GOhN_A6hmOAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120976994281681e59844de43c9ce47fa9b82a57684157f43cf463a137f03a866380a",
+      "host": "keybase.io",
+      "kid": "0120976994281681e59844de43c9ce47fa9b82a57684157f43cf463a137f03a866380a",
+      "uid": "d7bf7e0d6b22ccdeb810e07041c91f19",
+      "username": "cweiblen"
+    },
+    "merkle_root": {
+      "ctime": 1550082597,
+      "hash": "09780405229a4fe47202f1cc31b5ef40c69dcbb5712b586f2fd94f57aa7754be721f18b61ccd3045687fcdf8967a825b9c5b670d6007c9e984a3dd48d7232112",
+      "hash_meta": "d2f1eaad810cd2c58580c6d09231d8c5498521985a86513279aed8f1b7ea8546",
+      "seqno": 4758567
+    },
+    "service": {
+      "entropy": "XwYroFm/Bi4PxUPNKfUeAxyU",
+      "hostname": "weiblen.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1550082634,
+  "expire_in": 504576000,
+  "prev": "4431ad90fa11efc7ac7bfba922ae84bc0012da36be0462a15d7ed6ac77268eec",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgl2mUKBaB5ZhE3kPJzkf6m4KldoQVf0PPRjoTfwOoZjgKp3BheWxvYWTESpcCB8QgRDGtkPoR78ese/upIq6EvAAS2ja+BGKhXX7WrHcmjuzEIG+O5FxUsFxDhyrHUKk7JToVvH/YfobqLYiQkH35/E+DAgHCo3NpZ8RAAAB29T/PjGDBUnd/U45SzYtPXCYHxTvY9W3u8VWZsebZxBhnEiAMM3syk7fOYpURDiEalKYPMTAU78B8blrPBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKauQdxB3IBcxG7QTlShLnG7rgdmk0YchfX+fThZEm8Wo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cweiblen
+
+==================================================================
